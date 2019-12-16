@@ -3,7 +3,8 @@
 --- !u!78 &1
 TagManager:
   serializedVersion: 2
-  tags: []
+  tags:
+  - tempIceBlock
   layers:
   - Default
   - TransparentFX
@@ -40,4 +41,16 @@ TagManager:
   m_SortingLayers:
   - name: Default
     uniqueID: 0
+    locked: 0
+  - name: Walls
+    uniqueID: 2328853217
+    locked: 0
+  - name: Button
+    uniqueID: 1730381641
+    locked: 0
+  - name: Pushbox
+    uniqueID: 2173117113
+    locked: 0
+  - name: Player
+    uniqueID: 4212221437
     locked: 0

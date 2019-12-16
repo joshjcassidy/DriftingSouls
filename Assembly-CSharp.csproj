@@ -44,7 +44,8 @@
     <ImplicitlyExpandNETStandardFacades>false</ImplicitlyExpandNETStandardFacades>
     <ImplicitlyExpandDesignTimeFacades>false</ImplicitlyExpandDesignTimeFacades>
   </PropertyGroup>
-  <ItemGroup>     <Compile Include="Assets\PlayerMovement.cs" />
+  <ItemGroup>     <Compile Include="Assets\DoorUnlock.cs" />
+     <Compile Include="Assets\PlayerMovement.cs" />
      <Compile Include="Assets\PlayerPush.cs" />
  <Reference Include="Unity.Timeline.Editor">
  <HintPath>D:/Josh/Documents/NCI/4th Year/Software Project/GAMEFILES/DriftingSouls/Library/ScriptAssemblies/Unity.Timeline.Editor.dll</HintPath>
