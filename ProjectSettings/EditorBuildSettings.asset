@@ -6,6 +6,57 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/Scenes/SampleScene.unity
+    path: Assets/Scenes/Title.unity
+    guid: e6d94d2b3840b0b43ae273a4add53fed
+  - enabled: 1
+    path: Assets/Scenes/1-1Storage.unity
     guid: 2cda990e2423bbf4892e6590ba056729
+  - enabled: 1
+    path: Assets/Scenes/0HubRoom.unity
+    guid: 4518818dd3585d14d97ab76709873df9
+  - enabled: 1
+    path: Assets/Scenes/1-2OutsideArea1.unity
+    guid: d6a94312fb7eaa14f90a0c295e35a6d8
+  - enabled: 1
+    path: Assets/Scenes/1-3MainHall.unity
+    guid: ac1def9a0eb5c2140b66fc0dc37bc278
+  - enabled: 1
+    path: Assets/Scenes/1-4Daycare.unity
+    guid: 1181db2a575c82a4f9e3c3db814eadc8
+  - enabled: 1
+    path: Assets/Scenes/1-5OutsideArea2.unity
+    guid: f052c002ba29e784ea248e32600a3eb9
+  - enabled: 1
+    path: Assets/Scenes/1-6Stern.unity
+    guid: f6ca2e2e19046ed4e848759ca701567d
+  - enabled: 1
+    path: Assets/Scenes/1-7Stairs.unity
+    guid: 2acbf8b4514484a49a13653c5f8938ba
+  - enabled: 1
+    path: Assets/Scenes/2-1Lounge.unity
+    guid: 0e8267d3a15ba93449f8a7ac786b999e
+  - enabled: 1
+    path: Assets/Scenes/2-3Ice.unity
+    guid: fbc28b2e504c6fd42917430bbaeb1d7f
+  - enabled: 1
+    path: Assets/Scenes/2-4Outside.unity
+    guid: a4d8cd39526cb8446b0b1db9bc5b3e2d
+  - enabled: 1
+    path: Assets/Scenes/2-5Corridor.unity
+    guid: 88a602573404d144eb1ecbbd9b0baf34
+  - enabled: 1
+    path: Assets/Scenes/2-6Stairs.unity
+    guid: d43e541465c6c544e9357676d7db6cb7
+  - enabled: 1
+    path: Assets/Scenes/3FinalBoss.unity
+    guid: 9a421dcc2aaf8e448856e8d0162702d7
+  - enabled: 1
+    path: Assets/Scenes/4End.unity
+    guid: 10c3d44f40afeef45bf72eaa233aa936
+  - enabled: 1
+    path: Assets/Scenes/GameOver.unity
+    guid: 35acc8283b9b60e46acccdea5deb8104
+  - enabled: 1
+    path: Assets/Scenes/Win.unity
+    guid: eacd97d661361f74784721dffaa21ab8
   m_configObjects: {}

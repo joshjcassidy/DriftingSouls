@@ -5,6 +5,24 @@ TagManager:
   serializedVersion: 2
   tags:
   - tempIceBlock
+  - blockPushable
+  - Enemy
+  - spikesOn
+  - key_blue
+  - key_purple
+  - key_red
+  - lock_blue
+  - lock_purple
+  - lock_red
+  - Money
+  - Food
+  - HealthPack
+  - Check
+  - Push
+  - Lever
+  - Fridge
+  - FirstAidTut
+  - MoneyTut
   layers:
   - Default
   - TransparentFX
@@ -14,10 +32,10 @@ TagManager:
   - UI
   - 
   - 
-  - 
-  - 
-  - 
-  - 
+  - BoxTouch
+  - Ridges
+  - Boss
+  - Bosslet
   - 
   - 
   - 
@@ -42,15 +60,33 @@ TagManager:
   - name: Default
     uniqueID: 0
     locked: 0
+  - name: Ridge
+    uniqueID: 3836164539
+    locked: 0
   - name: Walls
     uniqueID: 2328853217
     locked: 0
-  - name: Button
+  - name: InteractableWall
+    uniqueID: 4156872193
+    locked: 0
+  - name: Buttons
     uniqueID: 1730381641
     locked: 0
-  - name: Pushbox
+  - name: Boxes
     uniqueID: 2173117113
+    locked: 0
+  - name: Doors
+    uniqueID: 4046451415
+    locked: 0
+  - name: Enemy
+    uniqueID: 2207431525
     locked: 0
   - name: Player
     uniqueID: 4212221437
+    locked: 0
+  - name: HUD
+    uniqueID: 3650702037
+    locked: 0
+  - name: Supplies
+    uniqueID: 614267367
     locked: 0
